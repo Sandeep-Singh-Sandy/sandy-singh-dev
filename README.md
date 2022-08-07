@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandy-singh-dev
+- 👋 Hi, I’m @sandy-singh
 - 👀 I’m interested in Website Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
